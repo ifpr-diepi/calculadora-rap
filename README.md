@@ -1,16 +1,26 @@
-# React + Vite
+# 🧮 Calculadora de RAP - IFPR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Sistema estratégico desenvolvido para automatizar o cálculo da **Relação Aluno-Professor (RAP)**, em estrita observância aos parâmetros técnicos da **Portaria 146/2021**.
 
-Currently, two official plugins are available:
+## 🚀 Funcionalidades
+* **Inteligência de Dados**: Base de cursos integrada ao Anexo da Portaria, com pesos e fatores de esforço pré-configurados.
+* **Cálculo de Matrícula Equivalente**: Processamento automático considerando o tipo de oferta e carga horária (para cursos FIC).
+* **Gestão de Quadro Docente**: Painel para inserção de regimes de trabalho (20h, 40h e DE).
+* **Indicadores em Tempo Real**: Visualização instantânea da Matrícula Equivalente, Matrícula Equivalente-RAP e do índice RAP final.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tecnologias
+* **React + Vite**: Performance e rapidez no carregamento.
+* **TypeScript**: Tipagem forte para garantir a integridade dos cálculos matemáticos.
+* **Tailwind CSS**: Interface moderna, limpa e totalmente responsiva.
 
-## React Compiler
+## 📋 Como usar
+1. **Configuração do Curso**: Selecione o Tipo de Curso, o Eixo Tecnológico e o Curso específico.
+2. **Dados de Matrícula**: Insira a quantidade de matrículas atuais.
+3. **Cursos FIC**: Para cursos de Formação Inicial e Continuada, preencha o campo de Carga Horária que será habilitado automaticamente.
+4. **Composição da Lista**: Clique em adicionar para incluir o curso no cálculo global da unidade.
+5. **Quadro Docente**: Preencha o total de docentes por regime de trabalho (20h, 40h e DE).
+6. **Resultado**: O sistema exibirá no topo da tela o RAP calculado, além do detalhamento da Matrícula Equivalente e Matrícula Equivalente-RAP.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📩 Contato
+Para dúvidas, suporte técnico ou sugestões de melhoria, entre em contato com a **DIEPI/PROENS**: 
+📧 **diepi.proens@ifpr.edu.br**
