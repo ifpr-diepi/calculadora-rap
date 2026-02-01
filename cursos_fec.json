@@ -1,0 +1,2954 @@
+[
+  {
+    "tipo": "Educação Infantil",
+    "eixo": "Propedêutico",
+    "curso": "Propedêutico - Educação Infantil - Pré-escola",
+    "fec": "2,000"
+  },
+  {
+    "tipo": "Ensino Fundamental I",
+    "eixo": "Propedêutico",
+    "curso": "Propedêutico - Ensino Fundamental - Anos Iniciais",
+    "fec": "1,500"
+  },
+  {
+    "tipo": "Ensino Fundamental Ii",
+    "eixo": "Propedêutico",
+    "curso": "Propedêutico - Ensino Fundamental - Anos Finais",
+    "fec": "1,067"
+  },
+  {
+    "tipo": "Ensino Médio",
+    "eixo": "Propedêutico",
+    "curso": "Propedêutico - Ensino Médio",
+    "fec": "1,067"
+  },
+  {
+    "tipo": "Qualificação Profissional",
+    "eixo": "Todos",
+    "curso": "Todos",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Agente Comunitário de Saúde",
+    "fec": "1,017"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Análises Clínicas",
+    "fec": "1,500"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Biotecnologia",
+    "fec": "1,053"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Citopatologia",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Controle Ambiental",
+    "fec": "1,049"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Cuidados de Idosos",
+    "fec": "1,098"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Enfermagem",
+    "fec": "1,500"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Equipamentos Biomédicos",
+    "fec": "1,117"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Estética",
+    "fec": "1,333"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Farmácia",
+    "fec": "1,097"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Gerência de Saúde",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Hemoterapia",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Imagem Pessoal",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Imobilizações Ortopédicas",
+    "fec": "1,300"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Massoterapia",
+    "fec": "1,500"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Meio Ambiente",
+    "fec": "1,020"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Meteorologia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Necropsia",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Nutrição e Dietética",
+    "fec": "1,266"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Óptica",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Órteses e Próteses",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Podologia",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Prótese Dentária",
+    "fec": "1,500"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Radiologia",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Reabilitação de Dependentes Químicos",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Reciclagem",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Registros e Informações em Saúde",
+    "fec": "1,500"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Saúde Bucal",
+    "fec": "1,500"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Técnico em Vigilância em Saúde",
+    "fec": "1,151"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Automação Industrial",
+    "fec": "1,183"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Eletroeletrônica",
+    "fec": "1,148"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Eletromecânica",
+    "fec": "1,146"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Eletrônica",
+    "fec": "1,164"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Eletrotécnica",
+    "fec": "1,120"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Manutenção Automotiva",
+    "fec": "1,352"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Manutenção de Aeronaves em Aviônicos",
+    "fec": "1,352"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Manutenção de Aeronaves em Célula",
+    "fec": "1,352"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Manutenção de Aeronaves em Grupo Motopropulsor",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Manutenção de Máquinas Industriais",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Manutenção de Máquinas Navais",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Manutenção de Sistemas Metroferroviários",
+    "fec": "1,352"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Manutenção em Máquinas Pesadas",
+    "fec": "1,352"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Manutenção Metroferroviária",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Máquinas Navais",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Mecânica",
+    "fec": "1,247"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Mecânica de Precisão",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Mecatrônica",
+    "fec": "1,247"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Metalurgia",
+    "fec": "1,081"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Metrologia",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Processamento da Madeira",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Refrigeração e Climatização",
+    "fec": "1,105"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Sistemas a Gás",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Sistemas de Energia Renovável",
+    "fec": "1,029"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Técnico em Soldagem",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Técnico em Alimentação Escolar",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Técnico em Biblioteca",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Técnico em Biblioteconomia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Técnico em Infraestrutura Escolar",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Técnico em Laboratório de Ciências da Natureza",
+    "fec": "1,050"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Técnico em Ludoteca",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Técnico em Materiais Didáticos Bilíngue (libras/português)",
+    "fec": "1,300"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Técnico em Multimeios Didáticos",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Técnico em Orientação Comunitária",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Técnico em Produção de Materiais Didáticos Bilíngues em L Ibras/língua Portuguesa",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Técnico em Secretaria Escolar",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Técnico em Tradução e Interpretação de Libras",
+    "fec": "1,009"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Técnico em Treinamento de Cães-guia",
+    "fec": "1,300"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Técnico em Treinamento e Instrução de Cães-guias",
+    "fec": "1,300"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Gestão e Negócios",
+    "curso": "Técnico em Administração",
+    "fec": "1,008"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Gestão e Negócios",
+    "curso": "Técnico em Comércio",
+    "fec": "1,008"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Gestão e Negócios",
+    "curso": "Técnico em Comércio Exterior",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Gestão e Negócios",
+    "curso": "Técnico em Condomínio",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Gestão e Negócios",
+    "curso": "Técnico em Contabilidade",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Gestão e Negócios",
+    "curso": "Técnico em Cooperativismo",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Gestão e Negócios",
+    "curso": "Técnico em Finanças",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Gestão e Negócios",
+    "curso": "Técnico em Logística",
+    "fec": "1,005"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Gestão e Negócios",
+    "curso": "Técnico em Marketing",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Gestão e Negócios",
+    "curso": "Técnico em Qualidade",
+    "fec": "1,002"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Gestão e Negócios",
+    "curso": "Técnico em Recursos Humanos",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Gestão e Negócios",
+    "curso": "Técnico em Secretariado",
+    "fec": "1,014"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Gestão e Negócios",
+    "curso": "Técnico em Seguros",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Gestão e Negócios",
+    "curso": "Técnico em Serviços de Condomínio",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Gestão e Negócios",
+    "curso": "Técnico em Serviços Jurídicos",
+    "fec": "1,003"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Gestão e Negócios",
+    "curso": "Técnico em Serviços Públicos",
+    "fec": "1,003"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Gestão e Negócios",
+    "curso": "Técnico em Transações Imobiliárias",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Gestão e Negócios",
+    "curso": "Técnico em Vendas",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Informação e Comunicação",
+    "curso": "Técnico em Computação Gráfica",
+    "fec": "1,194"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Informação e Comunicação",
+    "curso": "Técnico em Desenvolvimento de Sistemas",
+    "fec": "1,050"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Informação e Comunicação",
+    "curso": "Técnico em Informática",
+    "fec": "1,053"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Informação e Comunicação",
+    "curso": "Técnico em Informática para Internet",
+    "fec": "1,028"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Informação e Comunicação",
+    "curso": "Técnico em Manutenção e Suporte em Informática",
+    "fec": "1,028"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Informação e Comunicação",
+    "curso": "Técnico em Programação de Jogos Digitais",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Informação e Comunicação",
+    "curso": "Técnico em Redes de Computadores",
+    "fec": "1,032"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Informação e Comunicação",
+    "curso": "Técnico em Sistemas de Computação",
+    "fec": "1,250"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Informação e Comunicação",
+    "curso": "Técnico em Sistemas de Transmissão",
+    "fec": "1,250"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Informação e Comunicação",
+    "curso": "Técnico em Telecomunicações",
+    "fec": "1,083"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Infraestrutura",
+    "curso": "Técnico Aeroportuário",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Infraestrutura",
+    "curso": "Técnico em Agrimensura",
+    "fec": "1,043"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Infraestrutura",
+    "curso": "Técnico em Carpintaria",
+    "fec": "1,300"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Infraestrutura",
+    "curso": "Técnico em Desenho de Construção Civil",
+    "fec": "1,066"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Infraestrutura",
+    "curso": "Técnico em Edificações",
+    "fec": "1,068"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Infraestrutura",
+    "curso": "Técnico em Estradas",
+    "fec": "1,010"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Infraestrutura",
+    "curso": "Técnico em Geodésia e Cartografia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Infraestrutura",
+    "curso": "Técnico em Geoprocessamento",
+    "fec": "1,213"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Infraestrutura",
+    "curso": "Técnico em Hidrologia",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Infraestrutura",
+    "curso": "Técnico em Portos",
+    "fec": "1,017"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Infraestrutura",
+    "curso": "Técnico em Saneamento",
+    "fec": "1,022"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Infraestrutura",
+    "curso": "Técnico em Trânsito",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Infraestrutura",
+    "curso": "Técnico em Transporte Aquaviário",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Infraestrutura",
+    "curso": "Técnico em Transporte de Cargas",
+    "fec": "1,075"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Infraestrutura",
+    "curso": "Técnico em Transporte Dutoviário",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Infraestrutura",
+    "curso": "Técnico em Transporte Metroferroviário",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Infraestrutura",
+    "curso": "Técnico em Transporte Rodoviário",
+    "fec": "1,131"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Ações de Comandos",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Armamento de Aeronaves",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Artilharia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Artilharia Antiaérea",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Bombeiro Aeronáutico",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Cavalaria",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Combate a Incêndio, Resgate e Prevenção de Acidentes de Aviação",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Comunicações Aeronáuticas",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Comunicações Navais",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Controle de Tráfego Aéreo",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Desenho Militar",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Eletricidade e Instrumentos Aeronáuticos",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Equipamento de Engenharia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Equipamentos de Voo",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Estrutura e Pintura de Aeronaves",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Forças Especiais",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Fotointeligência",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Guarda e Segurança",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Hidrografia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Infantaria",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Informações Aeronáuticas",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Manobras e Equipamentos de Convés",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Material Bélico",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Mecânica de Aeronaves",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Mergulho",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Montanhismo",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Navegação Fluvial",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Operação de Radar",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Operação de Sonar",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Operações de Engenharia Militar",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Preparação Física e Desportiva Militar",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Sensores de Aviação",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Sinais Navais",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Sinalização Náutica",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Militar",
+    "curso": "Técnico em Suprimento",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Alimentícia",
+    "curso": "Técnico em Agroindústria",
+    "fec": "1,034"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Alimentícia",
+    "curso": "Técnico em Alimentos",
+    "fec": "1,094"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Alimentícia",
+    "curso": "Técnico em Apicultura",
+    "fec": "1,150"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Alimentícia",
+    "curso": "Técnico em Cervejaria",
+    "fec": "1,299"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Alimentícia",
+    "curso": "Técnico em Confeitaria",
+    "fec": "1,247"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Alimentícia",
+    "curso": "Técnico em Panificação",
+    "fec": "1,104"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Alimentícia",
+    "curso": "Técnico em Processamento de Pescado",
+    "fec": "1,150"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Alimentícia",
+    "curso": "Técnico em Viticultura e Enologia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico de Moda e Estilismo",
+    "fec": "1,300"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Arte Circense",
+    "fec": "1,300"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Arte Dramática",
+    "fec": "1,300"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Artes Circenses",
+    "fec": "1,300"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Artes Visuais",
+    "fec": "1,150"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Artesanato",
+    "fec": "1,057"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Canto",
+    "fec": "1,500"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Cenografia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Composição e Arranjo",
+    "fec": "1,250"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Comunicação Visual",
+    "fec": "1,089"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Conservação e Restauro",
+    "fec": "1,150"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Dança",
+    "fec": "1,480"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Design de Calçados",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Design de Embalagens",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Design de Interiores",
+    "fec": "1,182"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Design de Joias",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Design de Móveis",
+    "fec": "1,008"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Documentação Musical",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Fabricação de Instrumentos Musicais",
+    "fec": "1,250"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Figurino Cênico",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Gestão Cultural",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Instrumento Musical",
+    "fec": "1,500"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Modelagem do Vestuário",
+    "fec": "1,060"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Multimídia",
+    "fec": "1,028"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Museologia",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Paisagismo",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Processos Fonográficos",
+    "fec": "1,259"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Processos Fotográficos",
+    "fec": "1,150"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Produção de Áudio e Vídeo",
+    "fec": "1,500"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Produção de Moda",
+    "fec": "1,082"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Publicidade",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Rádio e Televisão",
+    "fec": "1,300"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Regência",
+    "fec": "1,500"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Técnico em Teatro",
+    "fec": "1,083"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Açúcar e Álcool",
+    "fec": "1,175"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Análises Químicas",
+    "fec": "1,197"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Biocombustíveis",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Calçados",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Celulose e Papel",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Cerâmica",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Construção Naval",
+    "fec": "1,135"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Curtimento",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Fabricação Mecânica",
+    "fec": "1,214"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Impressão Offset",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Impressão Rotográfica e Flexográfica",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Joalheria",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Móveis",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Petróleo e Gás",
+    "fec": "1,030"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Petroquímica",
+    "fec": "1,076"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Plásticos",
+    "fec": "1,025"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Pré-impressão Gráfica",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Processos Gráficos",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Química",
+    "fec": "1,109"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Têxtil",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Produção Industrial",
+    "curso": "Técnico em Vestuário",
+    "fec": "1,018"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Recursos Naturais",
+    "curso": "Técnico em Agricultura",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Recursos Naturais",
+    "curso": "Técnico em Agroecologia",
+    "fec": "1,004"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Recursos Naturais",
+    "curso": "Técnico em Agronegócio",
+    "fec": "1,016"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Recursos Naturais",
+    "curso": "Técnico em Agropecuária",
+    "fec": "1,018"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Recursos Naturais",
+    "curso": "Técnico em Aquicultura",
+    "fec": "1,010"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Recursos Naturais",
+    "curso": "Técnico em Cafeicultura",
+    "fec": "1,253"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Recursos Naturais",
+    "curso": "Técnico em Equipamentos Pesqueiros",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Recursos Naturais",
+    "curso": "Técnico em Florestas",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Recursos Naturais",
+    "curso": "Técnico em Fruticultura",
+    "fec": "1,188"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Recursos Naturais",
+    "curso": "Técnico em Geologia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Recursos Naturais",
+    "curso": "Técnico em Grãos",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Recursos Naturais",
+    "curso": "Técnico em Mineração",
+    "fec": "1,073"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Recursos Naturais",
+    "curso": "Técnico em Pesca",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Recursos Naturais",
+    "curso": "Técnico em Pós-colheita",
+    "fec": "1,066"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Recursos Naturais",
+    "curso": "Técnico em Recursos Minerais",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Recursos Naturais",
+    "curso": "Técnico em Recursos Pesqueiros",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Recursos Naturais",
+    "curso": "Técnico em Zootecnia",
+    "fec": "1,080"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Segurança",
+    "curso": "Técnico em Defesa Civil",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Segurança",
+    "curso": "Técnico em Segurança do Trabalho",
+    "fec": "1,012"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Turismo, Hospitalidade e Lazer",
+    "curso": "Técnico em Agenciamento de Viagem",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Turismo, Hospitalidade e Lazer",
+    "curso": "Técnico em Cozinha",
+    "fec": "1,095"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Turismo, Hospitalidade e Lazer",
+    "curso": "Técnico em Eventos",
+    "fec": "1,006"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Turismo, Hospitalidade e Lazer",
+    "curso": "Técnico em Gastronomia",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Turismo, Hospitalidade e Lazer",
+    "curso": "Técnico em Guia de Turismo",
+    "fec": "1,016"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Turismo, Hospitalidade e Lazer",
+    "curso": "Técnico em Hospedagem",
+    "fec": "1,019"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Turismo, Hospitalidade e Lazer",
+    "curso": "Técnico em Lazer",
+    "fec": "1,113"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Turismo, Hospitalidade e Lazer",
+    "curso": "Técnico em Restaurante e Bar",
+    "fec": "1,058"
+  },
+  {
+    "tipo": "Técnico",
+    "eixo": "Turismo, Hospitalidade e Lazer",
+    "curso": "Técnico em Serviços de Restaurante e Bar",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Especialização Profissional Técnica",
+    "eixo": "Todos",
+    "curso": "Todos",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Estética e Cosmética",
+    "fec": "1,500"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Gestão Ambiental",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Gestão de Resíduos Sólidos",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Gestão Hospitalar",
+    "fec": "1,180"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Oftálmica",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Radiologia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Saneamento Ambiental",
+    "fec": "1,006"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Sistemas Biomédicos",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Automação Industrial",
+    "fec": "1,143"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Eletrônica Industrial",
+    "fec": "1,154"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Eletrotécnica Industrial",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Gestão da Produção Industrial",
+    "fec": "1,360"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Manutenção de Aeronaves",
+    "fec": "1,088"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Manutenção Industrial",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Mecânica de Precisão",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Mecatrônica Industrial",
+    "fec": "1,500"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Processos Ambientais",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Processos Metalúrgicos",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Refrigeração e Climatização",
+    "fec": "1,270"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Sistemas de Energia",
+    "fec": "1,031"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Sistemas Elétricos",
+    "fec": "1,031"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Sistemas Eletrônicos",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Desenvolvimento Social",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Processos Escolares",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Gestão e Negócios",
+    "curso": "Comércio Exterior",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Gestão e Negócios",
+    "curso": "Gestão Comercial",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Gestão e Negócios",
+    "curso": "Gestão da Qualidade",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Gestão e Negócios",
+    "curso": "Gestão de Cooperativas",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Gestão e Negócios",
+    "curso": "Gestão de Recursos Humanos",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Gestão e Negócios",
+    "curso": "Gestão Empreendedora",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Gestão e Negócios",
+    "curso": "Gestão Financeira",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Gestão e Negócios",
+    "curso": "Gestão Pública",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Gestão e Negócios",
+    "curso": "Logística",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Gestão e Negócios",
+    "curso": "Marketing",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Gestão e Negócios",
+    "curso": "Negócios Imobiliários",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Gestão e Negócios",
+    "curso": "Processos Gerenciais",
+    "fec": "1,017"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Gestão e Negócios",
+    "curso": "Secretariado",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Informação e Comunicação",
+    "curso": "Análise e Desenvolvimento de Sistemas",
+    "fec": "1,030"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Informação e Comunicação",
+    "curso": "Banco de Dados",
+    "fec": "1,250"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Informação e Comunicação",
+    "curso": "Gestão da Tecnologia da Informação",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Informação e Comunicação",
+    "curso": "Gestão de Telecomunicações",
+    "fec": "1,250"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Informação e Comunicação",
+    "curso": "Jogos Digitais",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Informação e Comunicação",
+    "curso": "Redes de Computadores",
+    "fec": "1,076"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Informação e Comunicação",
+    "curso": "Redes de Telecomunicações",
+    "fec": "1,250"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Informação e Comunicação",
+    "curso": "Segurança da Informação",
+    "fec": "1,250"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Informação e Comunicação",
+    "curso": "Sistemas de Telecomunicações",
+    "fec": "1,031"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Informação e Comunicação",
+    "curso": "Sistemas para Internet",
+    "fec": "1,076"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Informação e Comunicação",
+    "curso": "Telemática",
+    "fec": "1,076"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Infraestrutura",
+    "curso": "Agrimensura",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Infraestrutura",
+    "curso": "Construção de Edifícios",
+    "fec": "1,005"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Infraestrutura",
+    "curso": "Controle de Obras",
+    "fec": "1,005"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Infraestrutura",
+    "curso": "Estradas",
+    "fec": "1,032"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Infraestrutura",
+    "curso": "Geoprocessamento",
+    "fec": "1,032"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Infraestrutura",
+    "curso": "Gestão Portuária",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Infraestrutura",
+    "curso": "Material de Construção",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Infraestrutura",
+    "curso": "Obras Hidráulicas",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Infraestrutura",
+    "curso": "Pilotagem Profissional de Aeronaves",
+    "fec": "1,300"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Infraestrutura",
+    "curso": "Sistemas de Navegação Fluvial",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Infraestrutura",
+    "curso": "Transporte Aéreo",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Infraestrutura",
+    "curso": "Transporte Terrestre",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Militar",
+    "curso": "Comunicações Aeronáuticas",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Militar",
+    "curso": "Fotointeligência",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Militar",
+    "curso": "Gerenciamento de Tráfego Aéreo",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Militar",
+    "curso": "Gestão e Manutenção Aeronáutica",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Militar",
+    "curso": "Meteorologia Aeronáutica",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Militar",
+    "curso": "Sistemas de Armas",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Alimentícia",
+    "curso": "Agroindústria",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Alimentícia",
+    "curso": "Alimentos",
+    "fec": "1,049"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Alimentícia",
+    "curso": "Laticínios",
+    "fec": "1,049"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Alimentícia",
+    "curso": "Processamento de Carnes",
+    "fec": "1,150"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Alimentícia",
+    "curso": "Produção de Cachaça",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Alimentícia",
+    "curso": "Viticultura e Enologia",
+    "fec": "1,017"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Comunicação Assistiva",
+    "fec": "1,300"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Comunicação Institucional",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Conservação e Restauro",
+    "fec": "1,150"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Design de Interiores",
+    "fec": "1,150"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Design de Moda",
+    "fec": "1,078"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Design de Produto",
+    "fec": "1,078"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Design Gráfico",
+    "fec": "1,078"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Fotografia",
+    "fec": "1,150"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Produção Audiovisual",
+    "fec": "1,150"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Produção Cênica",
+    "fec": "1,150"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Produção Cultural",
+    "fec": "1,150"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Produção Fonográfica",
+    "fec": "1,150"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Produção Multimídia",
+    "fec": "1,101"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Produção Publicitária",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Industrial",
+    "curso": "Biocombustíveis",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Industrial",
+    "curso": "Biotecnologia",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Industrial",
+    "curso": "Construção Naval",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Industrial",
+    "curso": "Fabricação Mecânica",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Industrial",
+    "curso": "Papel e Celulose",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Industrial",
+    "curso": "Petróleo e Gás",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Industrial",
+    "curso": "Polímeros",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Industrial",
+    "curso": "Processos Químicos",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Industrial",
+    "curso": "Produção de Vestuário",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Industrial",
+    "curso": "Produção Gráfica",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Industrial",
+    "curso": "Produção Joalheira",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Industrial",
+    "curso": "Produção Moveleira",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Industrial",
+    "curso": "Produção Sucroalcooleira",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Produção Industrial",
+    "curso": "Produção Têxtil",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Recursos Naturais",
+    "curso": "Agroecologia",
+    "fec": "1,003"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Recursos Naturais",
+    "curso": "Agronegócio",
+    "fec": "1,020"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Recursos Naturais",
+    "curso": "Aquicultura",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Recursos Naturais",
+    "curso": "Cafeicultura",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Recursos Naturais",
+    "curso": "Horticultura",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Recursos Naturais",
+    "curso": "Irrigação e Drenagem",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Recursos Naturais",
+    "curso": "Mineração",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Recursos Naturais",
+    "curso": "Produção de Grãos",
+    "fec": "1,030"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Recursos Naturais",
+    "curso": "Produção Pesqueira",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Recursos Naturais",
+    "curso": "Produção Sucro Alcooleira",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Recursos Naturais",
+    "curso": "Rochas Ornamentais",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Recursos Naturais",
+    "curso": "Silvicultura",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Segurança",
+    "curso": "Gestão de Segurança Privada",
+    "fec": "1,110"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Segurança",
+    "curso": "Segurança No Trabalho",
+    "fec": "1,049"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Segurança",
+    "curso": "Segurança No Trânsito",
+    "fec": "1,110"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Segurança",
+    "curso": "Segurança Pública",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Segurança",
+    "curso": "Serviços Penais",
+    "fec": "1,110"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Turismo, Hospitalidade e Lazer",
+    "curso": "Eventos",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Turismo, Hospitalidade e Lazer",
+    "curso": "Gastronomia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Turismo, Hospitalidade e Lazer",
+    "curso": "Gestão de Turismo",
+    "fec": "1,024"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Turismo, Hospitalidade e Lazer",
+    "curso": "Gestão Desportiva e de Lazer",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Tecnologia",
+    "eixo": "Turismo, Hospitalidade e Lazer",
+    "curso": "Hotelaria",
+    "fec": "1,028"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Artes Cênicas",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Artes Visuais",
+    "fec": "1,239"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Ciências Agrárias",
+    "fec": "1,115"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Ciências Biológicas",
+    "fec": "1,052"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Ciências da Natureza",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Ciências Sociais",
+    "fec": "1,127"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Computação",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Dança",
+    "fec": "1,137"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Educação do Campo",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Educação Física",
+    "fec": "1,038"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Filosofia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Física",
+    "fec": "1,039"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Geografia",
+    "fec": "1,029"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "História",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Informática",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Intercultural Indígena",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Letras",
+    "fec": "1,024"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Letras - Língua Estrangeira",
+    "fec": "1,024"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Letras - Língua Portuguesa",
+    "fec": "1,024"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Libras - Licenciatura",
+    "fec": "-"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Licenciatura para a Educação Profissional, Científica e Tecnológica",
+    "fec": "1,175"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Matemática",
+    "fec": "1,013"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Música",
+    "fec": "1,107"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Pedagogia",
+    "fec": "1,064"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Programa Especial de Formação Pedagógica de Docentes",
+    "fec": "1,120"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Química",
+    "fec": "1,077"
+  },
+  {
+    "tipo": "Licenciatura",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Teatro",
+    "fec": "1,079"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Biomedicina",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Educação Física",
+    "fec": "1,249"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Enfermagem",
+    "fec": "1,500"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Engenharia Ambiental",
+    "fec": "1,025"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Farmácia",
+    "fec": "1,150"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Fisioterapia",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Fonoaudiologia",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Gestão Ambiental",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Medicina",
+    "fec": "1,300"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Meteorologia",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Nutrição",
+    "fec": "1,251"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Odontologia",
+    "fec": "1,300"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Psicologia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Ambiente e Saúde",
+    "curso": "Terapia Ocupacional",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Ciências Aeronáuticas",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Engenharia Aeronáutica",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Engenharia de Automação Industrial",
+    "fec": "1,160"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Engenharia de Controle e Automação",
+    "fec": "1,289"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Engenharia de Materiais",
+    "fec": "1,137"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Engenharia de Produção",
+    "fec": "1,028"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Engenharia Elétrica",
+    "fec": "1,108"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Engenharia Eletrônica",
+    "fec": "1,108"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Engenharia Mecânica",
+    "fec": "1,078"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Engenharia Mecatrônica",
+    "fec": "1,178"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Controle e Processos Industriais",
+    "curso": "Engenharia Metalúrgica",
+    "fec": "1,033"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Arqueologia",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Arquivologia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Artes Visuais",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Biblioteconomia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Ciências Sociais",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Dança",
+    "fec": "1,200"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Estatística",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Filosofia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Física",
+    "fec": "1,034"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Geografia",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "História",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Letras",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Letras - Língua Estrangeira",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Letras - Língua Portuguesa",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Matemática",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Museologia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Música",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Relações Públicas",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Serviço Social",
+    "fec": "1,500"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Teatro",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Desenvolvimento Educacional e Social",
+    "curso": "Teologia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Gestão e Negócios",
+    "curso": "Administração",
+    "fec": "1,001"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Gestão e Negócios",
+    "curso": "Ciências Atuariais",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Gestão e Negócios",
+    "curso": "Ciências Contábeis",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Gestão e Negócios",
+    "curso": "Ciências Econômicas",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Gestão e Negócios",
+    "curso": "Direito",
+    "fec": "1,187"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Gestão e Negócios",
+    "curso": "Línguas Estrangeiras Aplicadas a Negociações Internacionais",
+    "fec": "1,111"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Gestão e Negócios",
+    "curso": "Relações Internacionais",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Gestão e Negócios",
+    "curso": "Secretariado Executivo",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Informação e Comunicação",
+    "curso": "Ciência da Computação",
+    "fec": "1,081"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Informação e Comunicação",
+    "curso": "Engenharia de Computação",
+    "fec": "1,237"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Informação e Comunicação",
+    "curso": "Engenharia de Software",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Informação e Comunicação",
+    "curso": "Engenharia de Telecomunicações",
+    "fec": "1,187"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Informação e Comunicação",
+    "curso": "Informática",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Informação e Comunicação",
+    "curso": "Jornalismo",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Informação e Comunicação",
+    "curso": "Radio, Tv e Internet",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Informação e Comunicação",
+    "curso": "Sistemas de Informação",
+    "fec": "1,008"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Infraestrutura",
+    "curso": "Arquitetura e Urbanismo",
+    "fec": "1,071"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Infraestrutura",
+    "curso": "Engenharia Civil",
+    "fec": "1,085"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Infraestrutura",
+    "curso": "Engenharia de Agrimensura e Cartográfica",
+    "fec": "1,117"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Infraestrutura",
+    "curso": "Engenharia de Produção Civil",
+    "fec": "1,085"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Infraestrutura",
+    "curso": "Engenharia de Transportes",
+    "fec": "1,211"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Produção Alimentícia",
+    "curso": "Ciência e Tecnologia de Alimentos",
+    "fec": "1,076"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Produção Alimentícia",
+    "curso": "Engenharia de Alimentos",
+    "fec": "1,013"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Cinema e Audiovisual",
+    "fec": "1,269"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Design",
+    "fec": "1,500"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Produção Cultural",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Produção Cultural e Design",
+    "curso": "Publicidade e Propaganda",
+    "fec": "1,100"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Produção Industrial",
+    "curso": "Biotecnologia",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Produção Industrial",
+    "curso": "Engenharia de Bioprocessos",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Produção Industrial",
+    "curso": "Engenharia de Petróleo",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Produção Industrial",
+    "curso": "Engenharia Naval",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Produção Industrial",
+    "curso": "Engenharia Química",
+    "fec": "1,111"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Produção Industrial",
+    "curso": "Engenharia Têxtil",
+    "fec": "1,230"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Produção Industrial",
+    "curso": "Química",
+    "fec": "1,318"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Recursos Naturais",
+    "curso": "Agroecologia",
+    "fec": "1,022"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Recursos Naturais",
+    "curso": "Agronomia",
+    "fec": "1,061"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Recursos Naturais",
+    "curso": "Ciências Biológicas",
+    "fec": "1,026"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Recursos Naturais",
+    "curso": "Engenharia Agrícola",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Recursos Naturais",
+    "curso": "Engenharia Agronômica",
+    "fec": "1,052"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Recursos Naturais",
+    "curso": "Engenharia de Aquicultura",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Recursos Naturais",
+    "curso": "Engenharia de Energias Renováveis",
+    "fec": "1,137"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Recursos Naturais",
+    "curso": "Engenharia de Minas",
+    "fec": "1,137"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Recursos Naturais",
+    "curso": "Engenharia de Pesca",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Recursos Naturais",
+    "curso": "Engenharia Florestal",
+    "fec": "1,035"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Recursos Naturais",
+    "curso": "Geologia",
+    "fec": "1,037"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Recursos Naturais",
+    "curso": "Medicina Veterinária",
+    "fec": "1,037"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Recursos Naturais",
+    "curso": "Zootecnia",
+    "fec": "1,045"
+  },
+  {
+    "tipo": "Bacharelado",
+    "eixo": "Turismo, Hospitalidade e Lazer",
+    "curso": "Turismo",
+    "fec": "1,069"
+  },
+  {
+    "tipo": "Aperfeiçoamento Tecnológico",
+    "eixo": "Todos",
+    "curso": "Todos",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Especialização (lato Sensu/profissional Tecnológica)",
+    "eixo": "Todos",
+    "curso": "Todos",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Mestrado (acadêmico/profissional)",
+    "eixo": "Todos",
+    "curso": "Todos",
+    "fec": "1,000"
+  },
+  {
+    "tipo": "Doutorado (acadêmico/profissional)",
+    "eixo": "Todos",
+    "curso": "Todos",
+    "fec": "1,000"
+  }
+]
